@@ -1,2 +1,2 @@
-PASSWORD=nero12345 HWID=
+
 
